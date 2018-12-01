@@ -1,0 +1,40 @@
+body {
+	font-family: 'Source Sans Pro', 'sans-serif';
+	font-size: 20px;
+	padding-top: 70px;
+}
+
+.AboutButton {
+	margin-right: 50px;
+}
+
+.Home {
+	margin-right: 50px;
+}
+
+.navbar-inverse .navbar-brand {
+    color: white;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+    color: white;
+}
+
+.firstLetter {
+	padding-left: 20px;
+	font-size: 25px;
+}
+
+hr {
+	border-top: 2px solid #bfbfbf;
+	
+}
+
+#intro {
+	text-align: justify;
+}
+
+.skillType {
+	font-weight: 600;
+}
+
